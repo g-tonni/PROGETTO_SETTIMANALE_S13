@@ -15,7 +15,6 @@ public abstract class ElementoMultimediale {
     }
 
     // --- STAMPA
-
     @Override
     public String toString() {
         return "ElementoMultimediale{" +
